@@ -1,0 +1,1 @@
+{"name":"Local: LRU","url":"c:\\Users\\ASUS\\Documents\\Academic 3-1\\OS\\Operating-System\\LRU.cpp","tests":[{"id":1765948236750,"input":"12 3\n701203042303\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Documents\\Academic 3-1\\OS\\Operating-System\\LRU.cpp","group":"local","local":true}
