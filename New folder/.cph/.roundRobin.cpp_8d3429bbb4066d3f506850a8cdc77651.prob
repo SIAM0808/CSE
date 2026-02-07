@@ -1,0 +1,1 @@
+{"name":"Local: roundRobin","url":"c:\\Users\\ASUS\\Documents\\Academic 3-1\\OS\\New folder\\roundRobin.cpp","tests":[{"id":1770437591612,"input":"4\n0 5\n1 3\n2 4\n3 7\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Documents\\Academic 3-1\\OS\\New folder\\roundRobin.cpp","group":"local","local":true}
