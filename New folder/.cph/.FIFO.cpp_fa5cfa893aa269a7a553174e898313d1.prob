@@ -1,0 +1,1 @@
+{"name":"Local: FIFO","url":"c:\\Users\\ASUS\\Documents\\Academic 3-1\\OS\\New folder\\FIFO.cpp","tests":[{"id":1770438378632,"input":"7\n1 3 0 3 5 6 3\n3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Documents\\Academic 3-1\\OS\\New folder\\FIFO.cpp","group":"local","local":true}
